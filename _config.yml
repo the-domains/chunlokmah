@@ -1,6 +1,6 @@
 name: ChunLokMah
 favicon: null
-layout_spectrum: 0.6900941494386643
+layout_spectrum: 0.96098
 typography_spectrum: 0.57391
 title: 'ChunLok Mah Art & Design'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#18211e'
     - '#070204'
     - '#97a99d'
-  brandStrength: 0.5
-  lightness: 0.7861520971637219
-  saturation: 0.5
-  rhythmicContrast: 0.18356536235660315
+  brandStrength: 0.3125
+  lightness: 0.4375
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
