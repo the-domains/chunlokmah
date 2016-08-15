@@ -1,7 +1,7 @@
 name: ChunLokMah
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.57391
+layout_spectrum: 0.8504838440567255
+typography_spectrum: 0.14369755587540567
 title: ChunLok Mah Art & Design
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#76757a'
-    - '#444348'
-    - '#18211e'
-    - '#070204'
-    - '#97a99d'
-  brandStrength: 0
-  lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 0
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.0010487246327102184
+  lightness: 0.7474311464466155
+  saturation: 0.005676815286278725
+  rhythmicContrast: 0.5487765627913177
 purpose: []
